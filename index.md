@@ -1,3 +1,7 @@
+---
+layout: default
+title: Welsh Sketches, chiefly ecclesiastical, to the close of the twelfth century. By the author of “Proposals for Christian Union” (E. S. A. )
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
